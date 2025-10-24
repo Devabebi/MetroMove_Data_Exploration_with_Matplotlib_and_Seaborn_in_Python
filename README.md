@@ -2,6 +2,9 @@
 At MetroMove, I used EDA on over 2 million trip records to uncover journey, behaviour, and fare patterns. My analysis improved route efficiency by 12%, reduced fare discrepancies by 9%, and raised passenger satisfaction, empowering stakeholders with data-driven insights for smarter decisions and streamlined operations.
 <img width="1428" height="1350" alt="image" src="https://github.com/user-attachments/assets/d27b47a4-bea4-4426-aab9-f3d94e6f073a" />
 
+🔒 Disclaimer
+All datasets and reports used in this portfolio are entirely fictitious and contain no proprietary, confidential, or sensitive information from any company, institution, or individual. The information presented is dummy data created solely to demonstrate my capability in using Tableau for advanced analytics within the real estate industry.
+
 ## Table of Content
 - [Business Overview](#business-overview)
 - [Problem Statement](#problem-statement)
